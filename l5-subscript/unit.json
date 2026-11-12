@@ -1,0 +1,345 @@
+{
+ "slug": "l5-subscript",
+ "title_ko": "ព្យញ្ជនៈផ្ញើជើង",
+ "title_en": "Subscript consonants",
+ "subtitle": "មេរៀនទី ៥ · Lesson 5 of ភាសាខ្មែរ កម្រិត ១",
+ "description": "Small letters that hide under or beside a big one (ក្តាម ខ្ទើយ ឆ្នាំង ម្តាយ…), with the passage on why some adults never learned to read.",
+ "sections": [
+  {
+   "id": "form",
+   "ko": "រូបជើង",
+   "en": "What they look like",
+   "color": "#0052A4"
+  },
+  {
+   "id": "words",
+   "ko": "ពាក្យជើង",
+   "en": "Subscript words",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "why",
+   "ko": "មូលហេតុ",
+   "en": "Why school was lost",
+   "color": "#8A8D93"
+  }
+ ],
+ "spine": {
+  "title": "ខ្សែទី៥ · Two consonants, one beat",
+  "note": "See the small forms, read words that use them, then read why some learners missed school."
+ },
+ "explain": {
+  "why": "ជើងអក្សរជាព្យញ្ជនៈតូចដែលនៅក្រោម (ឬខាងឆ្វេង) ព្យញ្ជនៈធំ។ ពាក្យទាំងមូលអានជាព្យាង្គតែមួយ។",
+  "tiles": [
+   {
+    "img": "img/x-under.svg",
+    "tile": "ក្+ត=ក្ត",
+    "ko": "ជើងនៅក្រោម",
+    "en": "The small letter sits below"
+   },
+   {
+    "img": "img/x-left.svg",
+    "tile": "ខ្+ស=ខ្ស",
+    "ko": "ជើង «ស» នៅឆ្វេង",
+    "en": "The ្ស form hides on the left"
+   },
+   {
+    "img": "img/x-onebeat.svg",
+    "tile": "ម្តាយ",
+    "ko": "ពីរអក្សរ ព្យាង្គតែមួយ",
+    "en": "Two consonants, one beat"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "form",
+   "img": "img/c1.svg",
+   "tile": "ក្តាម",
+   "flat": true,
+   "alt": "A crab",
+   "hook": "ជើង «ត»",
+   "ko": "«ក្តាម» crab។ «ត» បន្ថយទំហំនៅក្រោម «ក» អាន k-dam ព្យាង្គតែមួយ។",
+   "en": "ក្តាម “crab”: a tiny ត under ក — one beat, not two.",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "form",
+   "img": "img/c2.svg",
+   "tile": "ខ្ទើយ",
+   "flat": true,
+   "alt": "A crocodile",
+   "hook": "ជើង «ធ»",
+   "ko": "«ខ្ទើយ» crocodile។ កុំច្រឡំជាមួយ «ក្តាម»។",
+   "en": "ខ្ទើយ “crocodile” — don't mix it up with ក្តាម.",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c3.svg",
+   "tile": "ឆ្នាំង",
+   "flat": true,
+   "alt": "A clay cooking pot",
+   "hook": "ជើង «ន»",
+   "ko": "«ឆ្នាំង» clay pot។ មីងឆាំប្រើឆ្នាំងផ្អិនអាហារល្អ។",
+   "en": "ឆ្នាំង “clay pot”. Mum Cham cooks well with her pots.",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c4.svg",
+   "tile": "ម្តាយ",
+   "flat": true,
+   "alt": "A mother holding a child",
+   "hook": "ជើង «ដ»",
+   "ko": "«ម្តាយ» mother។ ពាក្យគ្រួសារភាគច្រើនមានជើងអក្សរ។",
+   "en": "ម្តាយ “mother” — most family words carry a subscript.",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c5.svg",
+   "tile": "ភ្នែក",
+   "flat": true,
+   "alt": "An eye",
+   "hook": "ជើង «ន»",
+   "ko": "«ភ្នែក» eye។ «ទ» បាត់ខ្លួននៅក្រោម «ភ»។",
+   "en": "ភ្នែក “eye” — the ទ vanishes under the ភ.",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c6.svg",
+   "tile": "ផ្លូវ",
+   "flat": true,
+   "alt": "A village road",
+   "hook": "ជើង «ល»",
+   "ko": "«ផ្លូវ» road។ ផ្ទះពូពៅនៅខាងត្បូងស្រែក្បែរភ្នំ។",
+   "en": "ផ្លូវ “road”. Pu Pov's house is south of the rice field by the hill.",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "why",
+   "img": "img/c7.svg",
+   "tile": "បោះបង់",
+   "flat": true,
+   "alt": "An abandoned schoolbook",
+   "hook": "បោះបង់",
+   "ko": "សម្បត្តិបានបោះបង់ការសិក្សាតាំងពីតូច ព្រោះត្រូវជួយឪពុកម្តាយធ្វើការ។",
+   "en": "Sambot dropped out of school young to help her parents work.",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "why",
+   "img": "img/c8.svg",
+   "tile": "ចំណាកស្រុក",
+   "flat": true,
+   "alt": "A family travelling with bundles",
+   "hook": "ចំណាកស្រុក",
+   "ko": "នាងបាននាំកូនធ្វើចំណាកស្រុកទៅធ្វើកម្មករនៅទីប្រជុំជន។",
+   "en": "She took her children to migrate for work in a town.",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "title": "គ្រោះ · Traps",
+   "small": "Read these first",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "«ក្តាម» អាន «ក-តាម» ពីរព្យាង្គទេ?",
+     "qen": "Is ក្តាម read as two beats, kaa-daam?",
+     "qaudio": "audio/q1.mp3",
+     "a": "ទេ។ ជើងអក្សរធ្វើឱ្យព្យញ្ជនៈទាំងពីរចូលព្យាង្គតែមួយ៖ «ក្តាម» kdam។",
+     "aen": "No — the subscript merges both consonants into ONE beat: “kdam”.",
+     "why": "នេះជាចំណុចខុសគ្នារវាង ពាក្យពីរព្យាង្គ (មេរៀន ៣) និងពាក្យមានជើង។",
+     "audio": "audio/a1.mp3"
+    },
+    {
+     "q": "«ស» ធ្លាក់ជើងនៅឯណា?",
+     "qen": "Where does subscript ស go?",
+     "qaudio": "audio/q2.mp3",
+     "a": "«្ស» នៅខាងឆ្វេងព្យញ្ជនៈធំ ដូចជា «ស្រែ» និង «ខ្សត់»។",
+     "aen": "្ស sits to the LEFT of the main letter: ស្រែ rice field, ខ្សត់ poor.",
+     "audio": "audio/a2.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សំណួរ · Questions",
+   "small": "Questions learners really ask",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "«ជ្រូក» និង «ឆ្នាំង» មានជើងអ្វី?",
+     "qen": "Which subscripts are in ជ្រូក and ឆ្នាំង?",
+     "qaudio": "audio/q3.mp3",
+     "a": "«ជ្រូក» ជើង «រ» «ឆ្នាំង» ជើង «ន»។",
+     "aen": "ជ្រូក pig has រ; ឆ្នាំង pot has ន.",
+     "audio": "audio/a3.mp3"
+    },
+    {
+     "q": "ហេតុអ្វីបានជាមនុស្សធំខ្លះមិនចេះអក្សរ?",
+     "qen": "Why did some adults never learn to read?",
+     "qaudio": "audio/q4.mp3",
+     "a": "ព្រោះមិនបានចូលរៀន បោះបង់ការសិក្សា ជួបការលំបាក ឬចំណាកស្រុក។",
+     "aen": "Missed school, dropped out, hardship, or migrating for work.",
+     "audio": "audio/a4.mp3"
+    },
+    {
+     "q": "«សិក្សា» និង «ការសិក្សា» ខុសគ្នាយ៉ាងណា?",
+     "qen": "Difference between សិក្សា and ការសិក្សា?",
+     "qaudio": "audio/q5.mp3",
+     "a": "«ការ» នាំមុខប្តូរកិរិយាសព្ទឱ្យទៅជានាម៖ សិក្សា to study, ការសិក្សា the studying / education។",
+     "aen": "ការ in front turns the verb into a noun: study → education.",
+     "audio": "audio/a5.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យសង្គ្រោះ · Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "ខ្ញុំកំពុងរៀនអាន។",
+     "en": "I am learning to read.",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "សូមអភ័យទោស ខ្ញុំអានមិនសូវចេះ។",
+     "en": "Sorry, I can't read well yet.",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "ពាក្យជើង · Subscript words",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "ក្តាម",
+     "en": "crab",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "ខ្ទើយ",
+     "en": "crocodile",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "ឆ្នាំង",
+     "en": "clay pot",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "ជ្រូក",
+     "en": "pig",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "ត្បូង",
+     "en": "south / gem",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "ថ្លើម",
+     "en": "liver",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "គ្រួសារ-ជីវិត · Family & life",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "ម្តាយ",
+     "en": "mother",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "ប្អូន",
+     "en": "younger sibling",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "ភ្នែក",
+     "en": "eye",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "ផ្លូវ",
+     "en": "road",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "ខ្យល់",
+     "en": "air / wind",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "គ្រួសារ",
+     "en": "family",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "មូលហេតុ · Reasons",
+   "color": "#8A8D93",
+   "items": [
+    {
+     "ko": "បោះបង់",
+     "en": "to abandon / drop out",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "សិក្សា",
+     "en": "to study / education",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "ចំណាកស្រុក",
+     "en": "to migrate",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "បច្ចុប្បន្ន",
+     "en": "present / today",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "លំបាក",
+     "en": "hardship",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "កម្មករ",
+     "en": "worker",
+     "audio": "audio/v18.mp3"
+    }
+   ]
+  }
+ ],
+ "published": "2026-11-05",
+ "full": [
+  {
+   "title": "រូបជើង · What they look like",
+   "ko": "«ក្តាម» crab។ «ត» បន្ថយទំហំនៅក្រោម «ក» អាន k-dam ព្យាង្គតែមួយ។ «ខ្ទើយ» crocodile។ កុំច្រឡំជាមួយ «ក្តាម»។",
+   "en": "ក្តាម “crab”: a tiny ត under ក — one beat, not two. ខ្ទើយ “crocodile” — don't mix it up with ក្តាម."
+  },
+  {
+   "title": "ពាក្យជើង · Subscript words",
+   "ko": "«ឆ្នាំង» clay pot។ មីងឆាំប្រើឆ្នាំងផ្អិនអាហារល្អ។ «ម្តាយ» mother។ ពាក្យគ្រួសារភាគច្រើនមានជើងអក្សរ។ «ភ្នែក» eye។ «ទ» បាត់ខ្លួននៅក្រោម «ភ»។ «ផ្លូវ» road។ ផ្ទះពូពៅនៅខាងត្បូងស្រែក្បែរភ្នំ។",
+   "en": "ឆ្នាំង “clay pot”. Mum Cham cooks well with her pots. ម្តាយ “mother” — most family words carry a subscript. ភ្នែក “eye” — the ទ vanishes under the ភ. ផ្លូវ “road”. Pu Pov's house is south of the rice field by the hill."
+  },
+  {
+   "title": "មូលហេតុ · Why school was lost",
+   "ko": "សម្បត្តិបានបោះបង់ការសិក្សាតាំងពីតូច ព្រោះត្រូវជួយឪពុកម្តាយធ្វើការ។ នាងបាននាំកូនធ្វើចំណាកស្រុកទៅធ្វើកម្មករនៅទីប្រជុំជន។",
+   "en": "Sambot dropped out of school young to help her parents work. She took her children to migrate for work in a town."
+  }
+ ]
+}

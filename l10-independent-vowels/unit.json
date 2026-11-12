@@ -1,0 +1,344 @@
+{
+ "slug": "l10-independent-vowels",
+ "title_ko": "ស្រៈពេញតួ",
+ "title_en": "Independent vowels — letters that stand alone",
+ "subtitle": "មេរៀនទី ១០ · Lesson 10 of ភាសាខ្មែរ កម្រិត ១",
+ "description": "The twelve vowel-letters that need no consonant (ឥ ឧ ឪ ឬ ឯ ឱ…), with words like ឪពុក ឬស្សី ឯកសារ ឱកាស and the social-services dialogue at the commune office.",
+ "sections": [
+  {
+   "id": "letters",
+   "ko": "តួស្រៈ",
+   "en": "The vowel-letters",
+   "color": "#00A84D"
+  },
+  {
+   "id": "words",
+   "ko": "ពាក្យ",
+   "en": "Words that start with them",
+   "color": "#CD7C2F"
+  },
+  {
+   "id": "service",
+   "ko": "សេវាសង្គម",
+   "en": "Public services",
+   "color": "#0052A4"
+  }
+ ],
+ "spine": {
+  "title": "ខ្សែទី១០ · Vowels with their own bodies",
+  "note": "Meet the standalone vowel-letters, read words built on them, then handle paperwork at the commune."
+ },
+ "explain": {
+  "why": "ស្រៈភាគច្រើនជាសញ្ញាពឹងពាក់ព្យញ្ជនៈ។ ស្រៈពេញតួមានតួខ្លួនឯង អាចរស់បានមិនត្រូវការព្យញ្ជនៈ។",
+  "tiles": [
+   {
+    "img": "img/x-stand.svg",
+    "tile": "ឥ ឧ ឯ ឱ",
+    "ko": "មានតួខ្លួនឯង",
+    "en": "They stand on their own"
+   },
+   {
+    "img": "img/x-count.svg",
+    "tile": "១២ តួ",
+    "ko": "ស្រៈពេញតួ ១២",
+    "en": "Twelve full vowel-letters"
+   },
+   {
+    "img": "img/x-coeng.svg",
+    "tile": "ឬ→រ្វើ?",
+    "ko": "ខ្លះមានរូបជើងផង",
+    "en": "Some have subscript forms too"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "letters",
+   "img": "img/c1.svg",
+   "tile": "ឥ ឦ ឧ",
+   "flat": true,
+   "alt": "Independent vowel letters ឥ ឦ ឧ",
+   "hook": "ស្រៈពេញតួ",
+   "ko": "ស្រៈពេញតួមាន ឥ ឦ ឧ ឩ ឪ ឫ ឬ ឭ ឮ ឯ ឰ ឱ។",
+   "en": "The full vowel-letters: ឥ ឦ ឧ ឩ ឪ ឫ ឬ ឭ ឮ ឯ ឰ ឱ.",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c2.svg",
+   "tile": "ឪពុក",
+   "flat": true,
+   "alt": "A father with his child",
+   "hook": "ឪពុក",
+   "ko": "«ឪពុក» father។ កូនៗតែងតែរំលឹក និងតបស្នងសងគុណឪពុកម្តាយ។",
+   "en": "ឪពុក “father”. Children remember and repay their parents' kindness.",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c3.svg",
+   "tile": "ឬស្សី",
+   "flat": true,
+   "alt": "A clump of bamboo",
+   "hook": "ឬស្សី",
+   "ko": "«ឬស្សី» bamboo។ ទីពុកខ្ញុំគាស់គុម្ពឬស្សីដើម្បីយកដី។",
+   "en": "ឬស្សី “bamboo”. My grandfather digs up a bamboo clump for soil.",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c4.svg",
+   "tile": "ឧសភា",
+   "flat": true,
+   "alt": "A calendar page showing May",
+   "hook": "ឧសភា",
+   "ko": "«ឧសភា» May។ ទិវាពលកម្មអន្តរជាតិនៅថ្ងៃទី០១ ខែឧសភា។",
+   "en": "ឧសភា “May”. International Workers' Day is on 1 May.",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c5.svg",
+   "tile": "ឯកសារ",
+   "flat": true,
+   "alt": "A stack of official documents",
+   "hook": "ឯកសារ",
+   "ko": "«ឯកសារ» document។ សិស្សល្អចូលបណ្ណាល័យដើម្បីស្រាវជ្រាវឯកសារ។",
+   "en": "ឯកសារ “document”. Good students go to the library to research documents.",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c6.svg",
+   "tile": "ឱកាស",
+   "flat": true,
+   "alt": "An open door with light behind it",
+   "hook": "ឱកាស / ឱវាទ",
+   "ko": "«ឱកាស» opportunity «ឱវាទ» advice។ អប់រំក្រៅប្រព័ន្ធផ្តល់ឱកាសដល់អ្នកគ្មានលទ្ធភាពរៀន។",
+   "en": "ឱកាស “opportunity”, ឱវាទ “advice”. Non-formal education gives a chance to those who couldn't study.",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "service",
+   "img": "img/c7.svg",
+   "tile": "អត្តសញ្ញាណបណ្ណ",
+   "flat": true,
+   "alt": "An ID card",
+   "hook": "អត្តសញ្ញាណបណ្ណ",
+   "ko": "«ខ្ញុំមកធ្វើអត្តសញ្ញាណបណ្ណ ដែលមន្ត្រីឃុំបានផ្សព្វផ្សាយពីថ្ងៃមុន»។",
+   "en": "“I've come to make the ID card the commune officials announced about.”",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "service",
+   "img": "img/c8.svg",
+   "tile": "សេវាសង្គម",
+   "flat": true,
+   "alt": "Icons: clinic, school, pagoda, Red Cross",
+   "hook": "សេវាសង្គម",
+   "ko": "ក្រៅពីសាលាឃុំ មានមណ្ឌលសុខភាព សាលារៀន វត្តអារាម និងកាកបាទក្រហម។",
+   "en": "Besides the commune hall: a health centre, schools, pagodas and the Red Cross.",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "title": "គ្រោះ · Traps",
+   "small": "Read these first",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "«ឬ» និង «រ» អានដូចគ្នាទេ?",
+     "qen": "Are ឬ and រ read the same?",
+     "qaudio": "audio/q1.mp3",
+     "a": "នៅដើមពាក្យ «ឬស្សី» អាន rɨə។ «ឬ» ក៏ជាសញ្ញា «or» ដែរ អាន rʉə ខ្លី។",
+     "aen": "In ឬស្សី it reads “rɨ-”; as the word ឬ (“or”) it's a clipped “rʉh”.",
+     "audio": "audio/a1.mp3"
+    },
+    {
+     "q": "«ឯ» ជា «អេ» ទេ?",
+     "qen": "Is ឯ just an “e”?",
+     "qaudio": "audio/q2.mp3",
+     "a": "បាទ «ឯ» មានសំឡេង «ឯ» ដូច «អេ» តែជាតួឈរខ្លួនឯង ដូចជា ឯកសារ។",
+     "aen": "It sounds like “ae” but is a full letter of its own: ឯកសារ.",
+     "audio": "audio/a2.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សំណួរ · Questions",
+   "small": "Questions learners really ask",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "«ឧ» មានពាក្យអ្វីខ្លះ?",
+     "qen": "What words start with ឧ?",
+     "qaudio": "audio/q3.mp3",
+     "a": "ឧសភា May, ឧទ្យាន park, ឧបករណ៍ tool, ឧត្តម superior។",
+     "aen": "ឧសភា May, ឧទ្យាន park, ឧបករណ៍ tool, ឧត្តម superior.",
+     "audio": "audio/a3.mp3"
+    },
+    {
+     "q": "ពេលមានបញ្ហា តើទៅណា?",
+     "qen": "Where do I go when there's a problem?",
+     "qaudio": "audio/q4.mp3",
+     "a": "ទៅរាយការណ៍ជូនមេឃុំ ឬអាជ្ញាធរស្រុកជាបន្ទាន់។",
+     "aen": "Report to the commune chief or district authorities right away.",
+     "audio": "audio/a4.mp3"
+    },
+    {
+     "q": "«មណ្ឌលសុខភាព» ជាអ្វី?",
+     "qen": "What is a មណ្ឌលសុខភាព?",
+     "qaudio": "audio/q5.mp3",
+     "a": "កន្លែងព្យាបាល និងការពារសុខភាពនៅតំបន់។",
+     "aen": "A local health centre for treatment and prevention.",
+     "audio": "audio/a5.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យសង្គ្រោះ · Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "ខ្ញុំមិនមានឯកសារគ្រប់គ្រាន់ទេ។",
+     "en": "I don't have enough documents.",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "តើត្រូវការឯកសារអ្វីខ្លះ?",
+     "en": "Which documents are needed?",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "តួស្រៈ · Vowel-letters",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "ឥ",
+     "en": "e (standalone)",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "ឧ",
+     "en": "o (standalone)",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "ឪ",
+     "en": "oo (standalone)",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "ឬ",
+     "en": "rɨ / or",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "ឯ",
+     "en": "ae (standalone)",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "ឱ",
+     "en": "o (standalone)",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យស្រៈពេញតួ · Words using them",
+   "color": "#CD7C2F",
+   "items": [
+    {
+     "ko": "ឪពុក",
+     "en": "father",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "ឬស្សី",
+     "en": "bamboo",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "ឧសភា",
+     "en": "May",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "ឯកសារ",
+     "en": "document",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "ឱកាស",
+     "en": "opportunity",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "ឱវាទ",
+     "en": "advice",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សេវាសង្គម · Services",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "អត្តសញ្ញាណបណ្ណ",
+     "en": "ID card",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "មេឃុំ",
+     "en": "commune chief",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "មណ្ឌលសុខភាព",
+     "en": "health centre",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "កាកបាទក្រហម",
+     "en": "Red Cross",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "កិច្ចការ",
+     "en": "business / task",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "រាយការណ៍",
+     "en": "to report",
+     "audio": "audio/v18.mp3"
+    }
+   ]
+  }
+ ],
+ "published": "2026-11-10",
+ "full": [
+  {
+   "title": "តួស្រៈ · The vowel-letters",
+   "ko": "ស្រៈពេញតួមាន ឥ ឦ ឧ ឩ ឪ ឫ ឬ ឭ ឮ ឯ ឰ ឱ។",
+   "en": "The full vowel-letters: ឥ ឦ ឧ ឩ ឪ ឫ ឬ ឭ ឮ ឯ ឰ ឱ."
+  },
+  {
+   "title": "ពាក្យ · Words that start with them",
+   "ko": "«ឪពុក» father។ កូនៗតែងតែរំលឹក និងតបស្នងសងគុណឪពុកម្តាយ។ «ឬស្សី» bamboo។ ទីពុកខ្ញុំគាស់គុម្ពឬស្សីដើម្បីយកដី។ «ឧសភា» May។ ទិវាពលកម្មអន្តរជាតិនៅថ្ងៃទី០១ ខែឧសភា។ «ឯកសារ» document។ សិស្សល្អចូលបណ្ណាល័យដើម្បីស្រាវជ្រាវឯកសារ។ «ឱកាស» opportunity «ឱវាទ» advice។ អប់រំក្រៅប្រព័ន្ធផ្តល់ឱកាសដល់អ្នកគ្មានលទ្ធភាពរៀន។",
+   "en": "ឪពុក “father”. Children remember and repay their parents' kindness. ឬស្សី “bamboo”. My grandfather digs up a bamboo clump for soil. ឧសភា “May”. International Workers' Day is on 1 May. ឯកសារ “document”. Good students go to the library to research documents. ឱកាស “opportunity”, ឱវាទ “advice”. Non-formal education gives a chance to those who couldn't study."
+  },
+  {
+   "title": "សេវាសង្គម · Public services",
+   "ko": "«ខ្ញុំមកធ្វើអត្តសញ្ញាណបណ្ណ ដែលមន្ត្រីឃុំបានផ្សព្វផ្សាយពីថ្ងៃមុន»។ ក្រៅពីសាលាឃុំ មានមណ្ឌលសុខភាព សាលារៀន វត្តអារាម និងកាកបាទក្រហម។",
+   "en": "“I've come to make the ID card the commune officials announced about.” Besides the commune hall: a health centre, schools, pagodas and the Red Cross."
+  }
+ ]
+}

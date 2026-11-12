@@ -1,0 +1,345 @@
+{
+ "slug": "l6-reduced-1",
+ "title_ko": "ព្យាង្គតម្រួត ១",
+ "title_en": "Reduced syllables I — the coeng ្",
+ "subtitle": "មេរៀនទី ៦ · Lesson 6 of ភាសាខ្មែរ កម្រិត ១",
+ "description": "Words whose first beat swallows its vowel (កន្លែង ចង្កៀង ជញ្ជីង បង្កង…), with the road-traffic-safety passage.",
+ "sections": [
+  {
+   "id": "rule",
+   "ko": "តម្រួត",
+   "en": "The swallowed beat",
+   "color": "#00A84D"
+  },
+  {
+   "id": "words",
+   "ko": "ពាក្យ",
+   "en": "Village words",
+   "color": "#996CAC"
+  },
+  {
+   "id": "road",
+   "ko": "ចរាចរណ៍",
+   "en": "Road safety",
+   "color": "#CD4C58"
+  }
+ ],
+ "spine": {
+  "title": "ខ្សែទី៦ · The swallowed first beat",
+  "note": "Hear the swallowed vowel, read village words with ្, then road-safety language."
+ },
+ "explain": {
+  "why": "ពាក្យមួយចំនួនមាន «ជើងតូច» (្) នៅកណ្តាល។ ព្យាង្គទីមួយបាត់ស្រៈ អានខ្លីៗ ដូចជា «កន្លែង» k-nlaeng។",
+  "tiles": [
+   {
+    "img": "img/x-swallow.svg",
+    "tile": "ក្+ន=កន្ល",
+    "ko": "ព្យាង្គទីមួយខ្លី",
+    "en": "First beat shrinks"
+   },
+   {
+    "img": "img/x-double.svg",
+    "tile": "ជញ្ជ",
+    "ko": "ជើងស្ទួន",
+    "en": "Doubled subscripts like ញ្ជ"
+   },
+   {
+    "img": "img/x-road.svg",
+    "tile": "ចរាចរណ៍",
+    "ko": "ពាក្យផ្លូវធំ",
+    "en": "Big road words use it too"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "rule",
+   "img": "img/c1.svg",
+   "tile": "កន្លែង",
+   "flat": true,
+   "alt": "A marked spot on a map",
+   "hook": "តម្រួត",
+   "ko": "«កន្លែង» place។ «ន» តូចនៅក្រោម «ក» ព្យាង្គដើមអានខ្លី k-។",
+   "en": "កន្លែង “place”: the first beat shrinks to a bare k-.",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "rule",
+   "img": "img/c2.svg",
+   "tile": "ចង្កៀង",
+   "flat": true,
+   "alt": "An oil lamp glowing",
+   "hook": "ជើង «ក»",
+   "ko": "«ចង្កៀង» oil lamp។ អាន chɑng-ieng ព្យាង្គដើមស្រាល។",
+   "en": "ចង្កៀង “oil lamp” — light first beat, strong second.",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c3.svg",
+   "tile": "កង្កែប",
+   "flat": true,
+   "alt": "A frog",
+   "hook": "កង្កែប",
+   "ko": "«កង្កែប» frog។ «មីងខែយកជញ្ជីងថ្លឹងកង្កែបលក់នៅផ្សារ»។",
+   "en": "កង្កែប “frog”. Aunti Kae weighs frogs on a scale at the market.",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c4.svg",
+   "tile": "ជញ្ជីង",
+   "flat": true,
+   "alt": "A balance scale",
+   "hook": "ជើងស្ទួន «ញ្ជ»",
+   "ko": "«ជញ្ជីង» scale។ ជើងពីរ «ញ» និង «ជ» តម្រួតព្យាង្គដើម។",
+   "en": "ជញ្ជីង “scale” — TWO stacked subscripts shrink the first beat.",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c5.svg",
+   "tile": "បង្កង",
+   "flat": true,
+   "alt": "A prawn",
+   "hook": "បង្កង",
+   "ko": "«បង្កង» prawn។ «ចែថាទិញបង្កង និងបង្គាយកទៅអាំង»។",
+   "en": "បង្កង “prawn”. Auntie buys prawns and shrimp to grill.",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c6.svg",
+   "tile": "អង្គុយ",
+   "flat": true,
+   "alt": "People sitting politely",
+   "hook": "អង្គុយ",
+   "ko": "«អង្គុយ» to sit (polite)។ អង្គុយស្តាប់គ្រូក្នុងថ្នាក់។",
+   "en": "អង្គុយ “to sit” (polite). Sit and listen to the teacher.",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "road",
+   "img": "img/c7.svg",
+   "tile": "ចរាចរណ៍",
+   "flat": true,
+   "alt": "Traffic on a road",
+   "hook": "ចរាចរណ៍",
+   "ko": "«ចរាចរណ៍» traffic។ ការធ្វើដំណើរទៅមកតាមផ្លូវ។",
+   "en": "ចរាចរណ៍ “traffic” — travelling to and fro on the roads.",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "road",
+   "img": "img/c8.svg",
+   "tile": "សុវត្ថិភាព",
+   "flat": true,
+   "alt": "A seatbelt and safe crossing",
+   "hook": "សុវត្ថិភាព",
+   "ko": "«សុវត្ថិភាពចរាចរណ៍» កើតពីយើងគោរពច្បាប់ និងមានអធ្យាស្រ័យគ្នា។",
+   "en": "Road safety comes from obeying the law and yielding to one another.",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "title": "គ្រោះ · Traps",
+   "small": "Read these first",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "«កន្លែង» អាន «កន-លែង» ទេ?",
+     "qen": "Is កន្លែង read kɑn-laeng?",
+     "qaudio": "audio/q1.mp3",
+     "a": "ទេ។ ស្រៈព្យាង្គដើមត្រូវតម្រួត៖ «កន្លែង» kə-nlaeng ឬខ្លីជាងនេះទៀត។",
+     "aen": "No — the first vowel is reduced: “kə-nlaeng”, very light.",
+     "audio": "audio/a1.mp3"
+    },
+    {
+     "q": "«់» និង «្» ដូចគ្នាទេ?",
+     "qen": "Are ់ and ្ the same thing?",
+     "qaudio": "audio/q2.mp3",
+     "a": "ខុស។ «់» សម្លាប់ស្រៈចុងព្យាង្គ «្» (ជើង) ភ្ជាប់ព្យញ្ជនៈពីរក្នុងព្យាង្គតែមួយ។",
+     "aen": "Different: ់ kills a final vowel; ្ links two consonants inside one beat.",
+     "why": "«កង់» (មេរៀន ៤) vs «កង្កែប» (មេរៀន ៦)។",
+     "audio": "audio/a2.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សំណួរ · Questions",
+   "small": "Questions learners really ask",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "«អធ្យាស្រ័យ» ន័យអ្វី?",
+     "qen": "What does អធ្យាស្រ័យ mean?",
+     "qaudio": "audio/q3.mp3",
+     "a": "ការអត់ឱនឱ្យគ្នាទៅវិញទៅមក។ នៅលើផ្លូវ គឺបង្រួមឱ្យគេ។",
+     "aen": "Mutual tolerance — on the road, giving way to others.",
+     "audio": "audio/a3.mp3"
+    },
+    {
+     "q": "«ប្រុងប្រយ័ត្ន» ប្រើដូចម្តេច?",
+     "qen": "How do I use ប្រុងប្រយ័ត្ន?",
+     "qaudio": "audio/q4.mp3",
+     "a": "«ប្រុងប្រយ័ត្នផង!» កុំធ្វេសប្រហែស។",
+     "aen": "“Be careful!” — don't be careless.",
+     "audio": "audio/a4.mp3"
+    },
+    {
+     "q": "«ជញ្ជូន» និង «ជញ្ជីង» ដូចគ្នាទេ?",
+     "qen": "Are ជញ្ជូន and ជញ្ជីង related?",
+     "qaudio": "audio/q5.mp3",
+     "a": "ទេ។ «ជញ្ជូន» to send/transmit «ជញ្ជីង» a scale។ រៀនជាពីរពាក្យដាច់។",
+     "aen": "No: ជញ្ជូন = to send, ជញ្ជីង = weighing scale. Learn them apart.",
+     "audio": "audio/a5.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យសង្គ្រោះ · Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "ប្រុងប្រយ័ត្នផ្លូវផង។",
+     "en": "Watch out on the road.",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "ខ្ញុំមិនសូវចេះអានផ្លាកសញ្ញាទេ។",
+     "en": "I can't read signs well yet.",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "ពាក្យតម្រួត · Reduced words",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "កន្លែង",
+     "en": "place",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "ចង្កៀង",
+     "en": "oil lamp",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "កង្កែប",
+     "en": "frog",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "ជញ្ជីង",
+     "en": "scale",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "បង្កង",
+     "en": "prawn",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "អង្គុយ",
+     "en": "to sit (polite)",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ផ្សារ-ស្រែ · Market & field",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "កញ្ចេត",
+     "en": "small fish",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "ទន្សាយ",
+     "en": "to spread out",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "មង្សត",
+     "en": "a field name",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "អាំង",
+     "en": "to grill",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "ភ្លៀង",
+     "en": "rain",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "ស្រែ",
+     "en": "rice field",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ចរាចរណ៍ · Road safety",
+   "color": "#CD4C58",
+   "items": [
+    {
+     "ko": "សុវត្ថិភាព",
+     "en": "safety",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "ចរាចរណ៍",
+     "en": "traffic",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "អធ្យាស្រ័យ",
+     "en": "to yield / tolerance",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "ប្រុងប្រយ័ត្ន",
+     "en": "be careful",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "ច្បាប់",
+     "en": "law",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "គោរព",
+     "en": "to obey / respect",
+     "audio": "audio/v18.mp3"
+    }
+   ]
+  }
+ ],
+ "published": "2026-11-06",
+ "full": [
+  {
+   "title": "តម្រួត · The swallowed beat",
+   "ko": "«កន្លែង» place។ «ន» តូចនៅក្រោម «ក» ព្យាង្គដើមអានខ្លី k-។ «ចង្កៀង» oil lamp។ អាន chɑng-ieng ព្យាង្គដើមស្រាល។",
+   "en": "កន្លែង “place”: the first beat shrinks to a bare k-. ចង្កៀង “oil lamp” — light first beat, strong second."
+  },
+  {
+   "title": "ពាក្យ · Village words",
+   "ko": "«កង្កែប» frog។ «មីងខែយកជញ្ជីងថ្លឹងកង្កែបលក់នៅផ្សារ»។ «ជញ្ជីង» scale។ ជើងពីរ «ញ» និង «ជ» តម្រួតព្យាង្គដើម។ «បង្កង» prawn។ «ចែថាទិញបង្កង និងបង្គាយកទៅអាំង»។ «អង្គុយ» to sit (polite)។ អង្គុយស្តាប់គ្រូក្នុងថ្នាក់។",
+   "en": "កង្កែប “frog”. Aunti Kae weighs frogs on a scale at the market. ជញ្ជីង “scale” — TWO stacked subscripts shrink the first beat. បង្កង “prawn”. Auntie buys prawns and shrimp to grill. អង្គុយ “to sit” (polite). Sit and listen to the teacher."
+  },
+  {
+   "title": "ចរាចរណ៍ · Road safety",
+   "ko": "«ចរាចរណ៍» traffic។ ការធ្វើដំណើរទៅមកតាមផ្លូវ។ «សុវត្ថិភាពចរាចរណ៍» កើតពីយើងគោរពច្បាប់ និងមានអធ្យាស្រ័យគ្នា។",
+   "en": "ចរាចរណ៍ “traffic” — travelling to and fro on the roads. Road safety comes from obeying the law and yielding to one another."
+  }
+ ]
+}

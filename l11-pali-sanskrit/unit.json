@@ -1,0 +1,344 @@
+{
+ "slug": "l11-pali-sanskrit",
+ "title_ko": "ពាក្យបាលី និងសំស្រ្កឹត",
+ "title_en": "Pali & Sanskrit words in Khmer",
+ "subtitle": "មេរៀនទី ១១ · Lesson 11 of ភាសាខ្មែរ កម្រិត ១",
+ "description": "The learned layer of Khmer — មាតា បិតា អាសយដ្ឋាន អភិវឌ្ឍន៍ កតញ្ញូ — how to read and use it, with the natural-disasters passage.",
+ "sections": [
+  {
+   "id": "family",
+   "ko": "ពាក្យបាលី",
+   "en": "Everyday Pali words",
+   "color": "#996CAC"
+  },
+  {
+   "id": "formal",
+   "ko": "ពាក្យសំស្រ្កឹត",
+   "en": "Formal Sanskrit",
+   "color": "#576BB6"
+  },
+  {
+   "id": "disaster",
+   "ko": "គ្រោះធម្មជាតិ",
+   "en": "Natural disasters",
+   "color": "#CD4C58"
+  }
+ ],
+ "spine": {
+  "title": "ខ្សែទី១១ · The learned layer",
+  "note": "Pali words at home, Sanskrit words in news and offices, then disaster vocabulary."
+ },
+ "explain": {
+  "why": "ភាសាខ្មែរយកពាក្យបាលី-សំស្រ្កឹតច្រើន។ ពាក្យទាំងនេះមាន «ៈ» «ឌ្ឍ» «ជ្ញ» ដែលមិនសូវជួបក្នុងពាក្យខ្មែរធម្មតា។",
+  "tiles": [
+   {
+    "img": "img/x-two.svg",
+    "tile": "មាតា/ម្តាយ",
+    "ko": "ពីរកម្រិត ម្នាក់មនុស្ស",
+    "en": "Two registers, one meaning"
+   },
+   {
+    "img": "img/x-cluster.svg",
+    "tile": "ឌ្ឍ/ជ្ញ",
+    "ko": "ក្រុមអក្សរពិសេស",
+    "en": "Special clusters to recognise"
+   },
+   {
+    "img": "img/x-news2.svg",
+    "tile": "អភិវឌ្ឍន៍",
+    "ko": "ពាក្យផ្លូវការក្នុងព័ត៌មាន",
+    "en": "Formal words fill the news"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "family",
+   "img": "img/c1.svg",
+   "tile": "មាតា បិតា",
+   "flat": true,
+   "alt": "Mother and father, formal portrait",
+   "hook": "មាតា/បិតា",
+   "ko": "«មាតា» mother «បិតា» father (បាលី)។ និយាយធម្មតា៖ ម្តាយ ឪពុក។",
+   "en": "មាតា/បិតា are the formal Pali for mother/father; daily speech uses ម្តាយ/ឪពុក.",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "family",
+   "img": "img/c2.svg",
+   "tile": "គេហដ្ឋាន",
+   "flat": true,
+   "alt": "A tidy Khmer house",
+   "hook": "គេហដ្ឋាន",
+   "ko": "«គេហដ្ឋាន» home (បាលី)។ យើងត្រូវសម្អាតគេហដ្ឋានទទួលទេវតាឆ្នាំថ្មី។",
+   "en": "គេហដ្ឋាន “home”: we clean the house to welcome the New Year angel.",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "family",
+   "img": "img/c3.svg",
+   "tile": "អាសយដ្ឋាន",
+   "flat": true,
+   "alt": "An address plaque on a gate",
+   "hook": "អាសយដ្ឋាន",
+   "ko": "«អាសយដ្ឋាន» address។ សរសេរឈ្មោះ និងអាសយដ្ឋានលើ-envelope។",
+   "en": "អាសយដ្ឋាន “address” — write name and address on the envelope.",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "formal",
+   "img": "img/c4.svg",
+   "tile": "អភិវឌ្ឍន៍",
+   "flat": true,
+   "alt": "A crane building a bridge",
+   "hook": "អភិវឌ្ឍន៍",
+   "ko": "«អភិវឌ្ឍន៍» development។ កម្ពុជាមានការអភិវឌ្ឍន៍លើគ្រប់វិស័យ។",
+   "en": "អភិវឌ្ឍន៍ “development”. Cambodia is developing in every sector.",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "formal",
+   "img": "img/c5.svg",
+   "tile": "កតញ្ញូ",
+   "flat": true,
+   "alt": "A child bowing to elders",
+   "hook": "កតញ្ញូ",
+   "ko": "«កតញ្ញូ» grateful។ កតញ្ញូចំពោះឪពុកម្តាយ និងគ្រូបាអាចារ្យ។",
+   "en": "កតញ្ញូ “grateful” — toward parents and teachers.",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "formal",
+   "img": "img/c6.svg",
+   "tile": "បច្ចុប្បន្ន",
+   "flat": true,
+   "alt": "A clock showing now",
+   "hook": "បច្ចុប្បន្ន/អនាគត",
+   "ko": "«បច្ចុប្បន្ន» present time «អនាគត» future «អតីត» past។",
+   "en": "បច្ចុប្បន្ន the present, អនាគត the future, អតីត the past.",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "disaster",
+   "img": "img/c7.svg",
+   "tile": "ទឹកជំនន់",
+   "flat": true,
+   "alt": "Flooded village with a boat",
+   "hook": "ទឹកជំនន់",
+   "ko": "ស្ទើររាល់ឆ្នាំ កម្ពុជាជួបគ្រោះធម្មជាតិ ទឹកជំនន់ និងគ្រោះរាំងស្ងួត។",
+   "en": "Almost every year Cambodia faces natural disasters: floods and droughts.",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "disaster",
+   "img": "img/c8.svg",
+   "tile": "មហន្តរាយ",
+   "flat": true,
+   "alt": "Storm warning flag",
+   "hook": "មហន្តរាយ",
+   "ko": "«មហន្តរាយ» great disaster។ «ព្យុះ» storm ខ្យល់បក់បោកខ្លាំង។",
+   "en": "មហន្តរាយ “catastrophe”; ព្យុះ “storm” — wind that hurls with force.",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "title": "គ្រោះ · Traps",
+   "small": "Read these first",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "«មរតក» និង «មរណៈ» ពាក់ព័ន្ធគ្នាទេ?",
+     "qen": "Are មរតក and មរណៈ related?",
+     "qaudio": "audio/q1.mp3",
+     "a": "បាទ។ «មរណៈ» death «មរតក» inheritance (របស់ទុកពីអ្នកស្លាប់)។ ឬ សរសេរ «មរទក» ខុស។",
+     "aen": "Yes: មរណៈ death, មរតក inheritance (what the deceased leaves). Spelling it មរទក is wrong.",
+     "audio": "audio/a1.mp3"
+    },
+    {
+     "q": "«អវយវៈ» អានដូចម្តេច?",
+     "qen": "How do you read អវយវៈ?",
+     "qaudio": "audio/q2.mp3",
+     "a": "អាន «អ៎វៈយ៎ៈវ៎ះ» ស្រាលៗ មានន័យថា រូបកាយ។",
+     "aen": "Lightly: “ʔɑvɪəʔveă” — the body, its limbs.",
+     "audio": "audio/a2.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សំណួរ · Questions",
+   "small": "Questions learners really ask",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "«ទស្សនៈ» និង «ទស្សនា» ខុសគ្នាយ៉ាងណា?",
+     "qen": "Difference between ទស្សនៈ and ទស្សនា?",
+     "qaudio": "audio/q3.mp3",
+     "a": "«ទស្សនៈ» opinion «ទស្សនា» to view (ទស្សនាវដ្តី magazine, ទូរទស្សន៍ TV)។",
+     "aen": "ទស្សនៈ = a viewpoint; ទស្សនា = to view: ទស្សនាវដ្តី magazine, ទូរទស្សន៍ television.",
+     "audio": "audio/a3.mp3"
+    },
+    {
+     "q": "«ឧបសគ្គ» ជាអ្វី?",
+     "qen": "What is an ឧបសគ្គ?",
+     "qaudio": "audio/q4.mp3",
+     "a": "របស់ដែលរាំងខាងមុខ ធ្វើឱ្យពិបាកទៅមុខ obstacle។",
+     "aen": "Something blocking the way — an obstacle.",
+     "audio": "audio/a4.mp3"
+    },
+    {
+     "q": "«រាំងស្ងួត» និង «គ្រោះ» ប្រើជាគ្នាយ៉ាងណា?",
+     "qen": "How do រាំងស្ងួត and គ្រោះ combine?",
+     "qaudio": "audio/q5.mp3",
+     "a": "«គ្រោះរាំងស្ងួត» drought។ «គ្រោះថ្នាក់» accident/danger។",
+     "aen": "គ្រោះរាំងស្ងួត = drought; គ្រោះថ្នាក់ = accident / danger.",
+     "audio": "audio/a5.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យសង្គ្រោះ · Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "មានគ្រោះថ្នាក់នៅទីនេះ!",
+     "en": "There's danger here!",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "សូមជួយ យើងត្រូវជម្លៀស។",
+     "en": "Help — we need to evacuate.",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "បាលីប្រចាំថ្ងៃ · Daily Pali",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "មាតា",
+     "en": "mother (formal)",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "បិតា",
+     "en": "father (formal)",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "គេហដ្ឋាន",
+     "en": "home",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "អាសយដ្ឋាន",
+     "en": "address",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "មរតក",
+     "en": "inheritance",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "អវយវៈ",
+     "en": "body",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សំស្រ្កឹតផ្លូវការ · Formal Sanskrit",
+   "color": "#576BB6",
+   "items": [
+    {
+     "ko": "អភិវឌ្ឍន៍",
+     "en": "development",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "កតញ្ញូ",
+     "en": "grateful",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "បច្ចុប្បន្ន",
+     "en": "present",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "អនាគត",
+     "en": "future",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "លក្ខណៈ",
+     "en": "characteristic",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "ឧបសគ្គ",
+     "en": "obstacle",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "គ្រោះធម្មជាតិ · Disasters",
+   "color": "#CD4C58",
+   "items": [
+    {
+     "ko": "ទឹកជំនន់",
+     "en": "flood",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "រាំងស្ងួត",
+     "en": "drought",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "មហន្តរាយ",
+     "en": "catastrophe",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "ព្យុះ",
+     "en": "storm",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "គ្រោះថ្នាក់",
+     "en": "danger / accident",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "ជម្លៀស",
+     "en": "to evacuate",
+     "audio": "audio/v18.mp3"
+    }
+   ]
+  }
+ ],
+ "published": "2026-11-11",
+ "full": [
+  {
+   "title": "ពាក្យបាលី · Everyday Pali words",
+   "ko": "«មាតា» mother «បិតា» father (បាលី)។ និយាយធម្មតា៖ ម្តាយ ឪពុក។ «គេហដ្ឋាន» home (បាលី)។ យើងត្រូវសម្អាតគេហដ្ឋានទទួលទេវតាឆ្នាំថ្មី។ «អាសយដ្ឋាន» address។ សរសេរឈ្មោះ និងអាសយដ្ឋានលើ-envelope។",
+   "en": "មាតា/បិតា are the formal Pali for mother/father; daily speech uses ម្តាយ/ឪពុក. គេហដ្ឋាន “home”: we clean the house to welcome the New Year angel. អាសយដ្ឋាន “address” — write name and address on the envelope."
+  },
+  {
+   "title": "ពាក្យសំស្រ្កឹត · Formal Sanskrit",
+   "ko": "«អភិវឌ្ឍន៍» development។ កម្ពុជាមានការអភិវឌ្ឍន៍លើគ្រប់វិស័យ។ «កតញ្ញូ» grateful។ កតញ្ញូចំពោះឪពុកម្តាយ និងគ្រូបាអាចារ្យ។ «បច្ចុប្បន្ន» present time «អនាគត» future «អតីត» past។",
+   "en": "អភិវឌ្ឍន៍ “development”. Cambodia is developing in every sector. កតញ្ញូ “grateful” — toward parents and teachers. បច្ចុប្បន្ន the present, អនាគត the future, អតីត the past."
+  },
+  {
+   "title": "គ្រោះធម្មជាតិ · Natural disasters",
+   "ko": "ស្ទើររាល់ឆ្នាំ កម្ពុជាជួបគ្រោះធម្មជាតិ ទឹកជំនន់ និងគ្រោះរាំងស្ងួត។ «មហន្តរាយ» great disaster។ «ព្យុះ» storm ខ្យល់បក់បោកខ្លាំង។",
+   "en": "Almost every year Cambodia faces natural disasters: floods and droughts. មហន្តរាយ “catastrophe”; ព្យុះ “storm” — wind that hurls with force."
+  }
+ ]
+}

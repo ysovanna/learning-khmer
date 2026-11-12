@@ -1,0 +1,351 @@
+{
+ "slug": "l1-a-series",
+ "title_ko": "ព្យញ្ជនៈពួក «អ» ផ្សំស្រៈ",
+ "title_en": "The “a” consonants meet the vowels",
+ "subtitle": "មេរៀនទី ១ · Lesson 1 of ភាសាខ្មែរ កម្រិត ១",
+ "description": "Start reading Khmer: the fifteen a-family consonants, their built-in -aa sound, and the first vowel signs (េ ែ ោ ៅ ា) with real words from the level-1 literacy book.",
+ "sections": [
+  {
+   "id": "letters",
+   "ko": "ពួកអ",
+   "en": "The a-family",
+   "color": "#0052A4"
+  },
+  {
+   "id": "vowels",
+   "ko": "ស្រៈ",
+   "en": "First vowels",
+   "color": "#00A84D"
+  },
+  {
+   "id": "words",
+   "ko": "ពាក្យ",
+   "en": "Real words",
+   "color": "#EF7C1C"
+  }
+ ],
+ "spine": {
+  "title": "ខ្សែទី១ · From letters to words",
+  "note": "Learn the fifteen a-family letters, see how vowels attach, then read real one-syllable words."
+ },
+ "explain": {
+  "why": "អក្សរខ្មែរមានព្យញ្ជនៈ ៣៣ តួ បែងជាពីរពួក។ ពួកទីមួយហៅថា «ពួកអ» ព្រោះវាមានសំឡេង «អ» ជាប់ខាងក្នុង។",
+  "tiles": [
+   {
+    "img": "img/x-15.svg",
+    "tile": "១៥ តួ",
+    "ko": "ពួកអ ១៥ តួ",
+    "en": "Fifteen letters in the a-family"
+   },
+   {
+    "img": "img/x-inherent.svg",
+    "tile": "កា",
+    "ko": "គ្មានស្រៈ = មាន អា",
+    "en": "A bare letter already says -aa"
+   },
+   {
+    "img": "img/x-front.svg",
+    "tile": "េត",
+    "ko": "ស្រៈខ្លះនៅពីមុខ",
+    "en": "Some vowels are written in front"
+   },
+   {
+    "img": "img/x-top.svg",
+    "tile": "កោ",
+    "ko": "ស្រៈខ្លះនៅពីលើ",
+    "en": "Others sit on top or below"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "letters",
+   "img": "img/c1.svg",
+   "tile": "ក ខ ច ឆ",
+   "flat": true,
+   "alt": "Khmer letters ក ខ ច ឆ",
+   "hook": "ពួកអ",
+   "ko": "ព្យញ្ជនៈពួក «អ» មាន ១៥ តួ គឺ ក ខ ច ឆ ដ ឋ ណ ត ថ ប ផ ស ហ ឡ អ។",
+   "en": "The “a” family has fifteen letters: ក ខ ច ឆ ដ ឋ ណ ត ថ ប ផ ស ហ ឡ អ.",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "letters",
+   "img": "img/c2.svg",
+   "tile": "ក=កា",
+   "flat": true,
+   "alt": "ក equals កា",
+   "hook": "សំឡេង «អា»",
+   "ko": "ព្យញ្ជនៈនៅម្នាក់ឯង មាន «អា» ជាប់ខាងក្នុង ដូចជា ក = កា ត = តា។",
+   "en": "A bare consonant already carries -aa: ក reads “kaa”, ត reads “taa”.",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "vowels",
+   "img": "img/c3.svg",
+   "tile": "េ",
+   "flat": true,
+   "alt": "Vowel sign េ",
+   "hook": "ស្រៈ េ",
+   "ko": "ស្រៈ «េ» សរសេរនៅពីមុខព្យញ្ជនៈ ប៉ុន្តែអាននៅក្រោយ ដូចជា តេ។",
+   "en": "The vowel េ is written before the letter but read after it: តេ = tae.",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "vowels",
+   "img": "img/c4.svg",
+   "tile": "ែ",
+   "flat": true,
+   "alt": "Vowel sign ែ",
+   "hook": "ស្រៈ ែ",
+   "ko": "ស្រៈ «ែ» នៅពីលើ ដូចជា តែ ផែ ខែ។",
+   "en": "The vowel ែ sits on top: តែ tea, ផែ sandbar, ខែ moon/month.",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "vowels",
+   "img": "img/c5.svg",
+   "tile": "ោ",
+   "flat": true,
+   "alt": "Vowel sign ោ",
+   "hook": "ស្រៈ ោ",
+   "ko": "ស្រៈ «ោ» នៅពីលើដែរ ដូចជា ខោ សោ តោ។",
+   "en": "The vowel ោ also sits on top: ខោ trousers, សោ padlock, តោ lion.",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c6.svg",
+   "tile": "ដៃ",
+   "flat": true,
+   "alt": "Two hands",
+   "hook": "ដៃ",
+   "ko": "ពាក្យថ្មី «ដៃ» ផ្សំពី ដ + ៃ។ សូមអានក្នុងចិត្ត។",
+   "en": "New word ដៃ “hand”: ដ + ៃ. Read it in your head.",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c7.svg",
+   "tile": "ថ្ងៃ",
+   "flat": true,
+   "alt": "Sun over a day calendar",
+   "hook": "ថ្ងៃ",
+   "ko": "ពាក្យ «ថ្ងៃ» មានជើងអក្សរតូចនៅខាងក្រោម ប៉ុន្តែអានថា ថាំង។",
+   "en": "In ថ្ងៃ “day” a small subscript letter hides below; the word still reads “thngai”.",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "words",
+   "img": "img/c8.svg",
+   "tile": "ខោ សោ តែ",
+   "flat": true,
+   "alt": "Trousers, padlock and tea",
+   "hook": "អានឃ្លា",
+   "ko": "សូមអានឃ្លា៖ «ប៉ាទិញខោ ម៉ែផឹកតែ»។",
+   "en": "Read the phrase: “Pa tikh khao, me phuek tae” — Dad buys trousers, Mum drinks tea.",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "title": "គ្រោះ · Traps",
+   "small": "Read these first",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "ហេតុអ្វី «ក» និង «គ» សរសេរស្ទើរដូចគ្នា?",
+     "qen": "Why do ក and គ look almost the same?",
+     "qaudio": "audio/q1.mp3",
+     "a": "ពួកវានៅខុសគ្នាពួក។ «ក» ជាពួកអ «គ» ជាពួកអ៊ សំឡេងស្រៈក៏ប្លែងទៅ។",
+     "aen": "They belong to different families. ក is a-family, គ is â-family — the vowel sound changes with it.",
+     "why": "សំឡេងពួកព្យញ្ជនៈកំណត់សំឡេងស្រៈទាំងអស់នៅក្នុងពាក្យ។",
+     "audio": "audio/a1.mp3"
+    },
+    {
+     "q": "«េ» សរសេរពីមុខ តើអានពីមុខដែរទេ?",
+     "qen": "េ is written first — do I read it first?",
+     "qaudio": "audio/q2.mp3",
+     "a": "ទេ។ អានព្យញ្ជនៈមុន រួចស្រៈ «េ» ក្រោយ ដូចជា «តែ» អាន ត-ែ។",
+     "aen": "No. Read the consonant first, then េ: តែ is “t” + “ae”.",
+     "audio": "audio/a2.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សំណួរ · Questions",
+   "small": "Questions learners really ask",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "តើខ្ញុំត្រូវចាំពួកអទាំង ១៥ តួមុនគេទេ?",
+     "qen": "Must I memorise all fifteen letters first?",
+     "qaudio": "audio/q3.mp3",
+     "a": "មិនចាំបាច់ចាំភ្លាមទេ។ អានរាល់ថ្ងៃតិចៗ ពាក្យនឹងជួយឱ្យចាំខ្លួនឯង។",
+     "aen": "Not all at once. Read a little every day; the words will make you remember.",
+     "audio": "audio/a3.mp3"
+    },
+    {
+     "q": "ពាក្យណាប្រើស្រៈ «ោ» ខ្លះ?",
+     "qen": "Which words use ោ?",
+     "qaudio": "audio/q4.mp3",
+     "a": "ខោ សោ តោ គោ នៅ។",
+     "aen": "ខោ trousers, សោ lock, តោ lion, គោ cow.",
+     "audio": "audio/a4.mp3"
+    },
+    {
+     "q": "«ថ្ងៃ» អានដូចម្តេច?",
+     "qen": "How do I read ថ្ងៃ?",
+     "qaudio": "audio/q5.mp3",
+     "a": "អាន «ថាំង»។ និយាយពីជើងអក្សរនៅមេរៀនទី ៥។",
+     "aen": "Read it “thngai”. Subscript letters get their own lesson (Lesson 5).",
+     "audio": "audio/a5.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យសង្គ្រោះ · Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "ជួយអានឱ្យខ្ញុំស្តាប់ផង។",
+     "en": "Please read this aloud for me.",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "ពាក្យនេះអានដូចម្តេច?",
+     "en": "How is this word read?",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "ពួកអ · a-family letters",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "ក",
+     "en": "kaa",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "ខ",
+     "en": "khaa",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "ច",
+     "en": "chaa",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "ត",
+     "en": "taa",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "ប",
+     "en": "paa",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "ស",
+     "en": "saa",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យមួយព្យាង្គ · One-syllable words",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "ខោ",
+     "en": "trousers",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "សោ",
+     "en": "padlock",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "ដៃ",
+     "en": "hand",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "តែ",
+     "en": "tea",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "ផែ",
+     "en": "sandbar / road",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "គោ",
+     "en": "cow",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យបន្តិចបន្តួច · Everyday bits",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "ថ្ងៃ",
+     "en": "day",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "ខែ",
+     "en": "moon / month",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "ប៉ា",
+     "en": "dad",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "ម៉ែ",
+     "en": "mum",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "ទិញ",
+     "en": "to buy",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "ផឹក",
+     "en": "to drink",
+     "audio": "audio/v18.mp3"
+    }
+   ]
+  }
+ ],
+ "published": "2026-11-01",
+ "full": [
+  {
+   "title": "ពួកអ · The a-family",
+   "ko": "ព្យញ្ជនៈពួក «អ» មាន ១៥ តួ គឺ ក ខ ច ឆ ដ ឋ ណ ត ថ ប ផ ស ហ ឡ អ។ ព្យញ្ជនៈនៅម្នាក់ឯង មាន «អា» ជាប់ខាងក្នុង ដូចជា ក = កា ត = តា។",
+   "en": "The “a” family has fifteen letters: ក ខ ច ឆ ដ ឋ ណ ត ថ ប ផ ស ហ ឡ អ. A bare consonant already carries -aa: ក reads “kaa”, ត reads “taa”."
+  },
+  {
+   "title": "ស្រៈ · First vowels",
+   "ko": "ស្រៈ «េ» សរសេរនៅពីមុខព្យញ្ជនៈ ប៉ុន្តែអាននៅក្រោយ ដូចជា តេ។ ស្រៈ «ែ» នៅពីលើ ដូចជា តែ ផែ ខែ។ ស្រៈ «ោ» នៅពីលើដែរ ដូចជា ខោ សោ តោ។",
+   "en": "The vowel េ is written before the letter but read after it: តេ = tae. The vowel ែ sits on top: តែ tea, ផែ sandbar, ខែ moon/month. The vowel ោ also sits on top: ខោ trousers, សោ padlock, តោ lion."
+  },
+  {
+   "title": "ពាក្យ · Real words",
+   "ko": "ពាក្យថ្មី «ដៃ» ផ្សំពី ដ + ៃ។ សូមអានក្នុងចិត្ត។ ពាក្យ «ថ្ងៃ» មានជើងអក្សរតូចនៅខាងក្រោម ប៉ុន្តែអានថា ថាំង។ សូមអានឃ្លា៖ «ប៉ាទិញខោ ម៉ែផឹកតែ»។",
+   "en": "New word ដៃ “hand”: ដ + ៃ. Read it in your head. In ថ្ងៃ “day” a small subscript letter hides below; the word still reads “thngai”. Read the phrase: “Pa tikh khao, me phuek tae” — Dad buys trousers, Mum drinks tea."
+  }
+ ]
+}

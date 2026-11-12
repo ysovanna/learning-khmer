@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+_*.log
+_audio_log.txt
+_tiles_*.json
+__pycache__/
+tools/__pycache__/

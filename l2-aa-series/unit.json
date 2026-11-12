@@ -1,0 +1,345 @@
+{
+ "slug": "l2-aa-series",
+ "title_ko": "ព្យញ្ជនៈពួក «អ៊» ផ្សំស្រៈ",
+ "title_en": "The “â” consonants meet the vowels",
+ "subtitle": "មេរៀនទី ២ · Lesson 2 of ភាសាខ្មែរ កម្រិត ១",
+ "description": "The eighteen soft (voiced) consonants of the â-family, how they bend every vowel sound, and family/job words from the level-1 book.",
+ "sections": [
+  {
+   "id": "letters",
+   "ko": "ពួកអ៊",
+   "en": "The â-family",
+   "color": "#996CAC"
+  },
+  {
+   "id": "sound",
+   "ko": "សំឡេង",
+   "en": "How they bend vowels",
+   "color": "#CD7C2F"
+  },
+  {
+   "id": "family",
+   "ko": "គ្រួសារ",
+   "en": "Family & work",
+   "color": "#AE432E"
+  }
+ ],
+ "spine": {
+  "title": "ខ្សែទី២ · The soft family",
+  "note": "Meet the eighteen voiced letters, hear how they bend vowels, then use them in family and job words."
+ },
+ "explain": {
+  "why": "ពួកអ៊ (ឃោសៈ) មានសំឡេងធំគ្រលរ។ នៅពេលវាជួបស្រៈតែមួយ សំឡេងស្រៈប្លែងខុសពីពួកអ។",
+  "tiles": [
+   {
+    "img": "img/x-18.svg",
+    "tile": "១៨ តួ",
+    "ko": "ពួកអ៊ ១៨ តួ",
+    "en": "Eighteen letters in the â-family"
+   },
+   {
+    "img": "img/x-pair.svg",
+    "tile": "កា គា",
+    "ko": "ស្រៈដូច សំឡេងខុស",
+    "en": "Same vowel sign, different sound"
+   },
+   {
+    "img": "img/x-soft.svg",
+    "tile": "ង ញ ន",
+    "ko": "សំឡេងក្រាស់",
+    "en": "Nasals and voiced sounds"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "letters",
+   "img": "img/c1.svg",
+   "tile": "គ ឃ ង ជ",
+   "flat": true,
+   "alt": "Khmer letters គ ឃ ង ជ",
+   "hook": "ពួកអ៊",
+   "ko": "ពួក «អ៊» មាន ១៨ តួ ដូចជា គ ឃ ង ជ ឈ ញ ទ ធ ន ព ភ ម យ រ ល វ។",
+   "en": "The â-family has eighteen letters: គ ឃ ង ជ ឈ ញ ទ ធ ន ព ភ ម យ រ ល វ and friends.",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "letters",
+   "img": "img/c2.svg",
+   "tile": "គ=កោ",
+   "flat": true,
+   "alt": "គ reads kô",
+   "hook": "សំឡេង «អូ»",
+   "ko": "ពួកអ៊ នៅម្នាក់ឯង មានសំឡេង «អូ» ជាប់ខាងក្នុង ដូចជា គ = កោ។",
+   "en": "A bare â-family letter carries -ô: គ reads “kô”.",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "sound",
+   "img": "img/c3.svg",
+   "tile": "ទឹក",
+   "flat": true,
+   "alt": "A glass of water",
+   "hook": "ទឹក",
+   "ko": "«ទ» ជាពួកអ៊។ «ទឹក» អាន តឹក មានន័យថាទឹកសម្រាប់ផឹក។",
+   "en": "ទ is â-family. ទឹក “water” — the drink.",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "sound",
+   "img": "img/c4.svg",
+   "tile": "នាង",
+   "flat": true,
+   "alt": "A woman",
+   "hook": "នាង",
+   "ko": "«នាង» អាន នៀង សម្រាប់ហៅស្ត្រី។",
+   "en": "នាង reads “nieng” — she / a young woman.",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "family",
+   "img": "img/c5.svg",
+   "tile": "យាយ",
+   "flat": true,
+   "alt": "A grandmother",
+   "hook": "យាយ",
+   "ko": "ពាក្យគ្រួសារពួកអ៊ ដូចជា យាយ មាតា ភរិយា។",
+   "en": "Family words from the â-family: យាយ grandmother, មាតា mother, ភរិយា wife.",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "family",
+   "img": "img/c6.svg",
+   "tile": "គ្រូ",
+   "flat": true,
+   "alt": "A teacher at a blackboard",
+   "hook": "គ្រូ",
+   "ko": "«គ្រូ» មានជើង «រ» នៅក្រោម «គ»។ គ្រូបង្រៀនអក្ខរកម្មនៅមណ្ឌលសិក្សា។",
+   "en": "គ្រូ “teacher” hides a subscript រ under គ. Literacy teachers work at learning centres.",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "family",
+   "img": "img/c7.svg",
+   "tile": "មុខរបរ",
+   "flat": true,
+   "alt": "Farming tools",
+   "hook": "មុខរបរ",
+   "ko": "«មុខរបរ» មានពីរព្យាង្គ។ មុខរបរសំខាន់របស់គ្រួសារនាងចន្តាគឺធ្វើស្រែ។",
+   "en": "មុខរបរ “occupation” has two syllables. Chantha's family main job is rice farming.",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "family",
+   "img": "img/c8.svg",
+   "tile": "ដាំបន្លែ",
+   "flat": true,
+   "alt": "Growing vegetables",
+   "hook": "ដាំបន្លែ",
+   "ko": "មុខរបរបន្ថែមគឺ «ដាំបន្លែ» ដើម្បីបង្កើនប្រាក់ចំណូល។",
+   "en": "The side job is growing vegetables (ដាំបន្លែ) to raise the family income.",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "title": "គ្រោះ · Traps",
+   "small": "Read these first",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "«កា» និង «គា» អានដូចគ្នាទេ?",
+     "qen": "Are កា and គា read the same?",
+     "qaudio": "audio/q1.mp3",
+     "a": "ខុស។ «កា» (ពួកអ) អាន kaa «គា» (ពួកអ៊) អាន kaô ស្ទើរ «កៅ»។",
+     "aen": "No. កា (a-family) = “kaa”; គា (â-family) bends toward “kaô”.",
+     "why": "នេះជាគន្លឹះធំបំផុតនៃការអានខ្មែរ៖ ពួកព្យញ្ជនៈកំណត់សំឡេងស្រៈ។",
+     "audio": "audio/a1.mp3"
+    },
+    {
+     "q": "«ទ» នៅពួកអ៊ ហេតុអ្វី «ទារក» ស្តាប់ទូច «ត»? ",
+     "qen": "If ទ is voiced, why does ទារក sound like t?",
+     "qaudio": "audio/q2.mp3",
+     "a": "សំឡេង «ទ» ខ្សោយជាងមុនទៅតាមពេលវេលា ប៉ុន្តែវានៅរាប់ជាក្រុមអ៊ ដូច្នេះស្រៈនៅតែប្លែង។",
+     "aen": "ទ softened over time but still counts as â-family, so it still bends the vowel.",
+     "audio": "audio/a2.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សំណួរ · Questions",
+   "small": "Questions learners really ask",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "តើ «យ» និង «វ» នៅពួកណា?",
+     "qen": "Which family do យ and វ belong to?",
+     "qaudio": "audio/q3.mp3",
+     "a": "ទាំងពីរនៅពួកអ៊។ ដូច្នេះ «យាយ» និង «វាល» មានសំឡេងស្រៈបែបអ៊។",
+     "aen": "Both are â-family, so យាយ and វាល carry the bent vowels.",
+     "audio": "audio/a3.mp3"
+    },
+    {
+     "q": "«មុខរបរ» និង «មុខងារ» ខុសគ្នាទេ?",
+     "qen": "Is មុខរបរ different from មុខងារ?",
+     "qaudio": "audio/q4.mp3",
+     "a": "«មុខរបរ» ជាការរកស៊ី «មុខងារ» ជាតួនាទីនៅកន្លែងធ្វើការ។",
+     "aen": "មុខរបរ is your livelihood; មុខងារ is a role or function at work.",
+     "audio": "audio/a4.mp3"
+    },
+    {
+     "q": "ពាក្យគ្រួសារមានអ្វីខ្លះ?",
+     "qen": "What family words should I know?",
+     "qaudio": "audio/q5.mp3",
+     "a": "ឪពុក ម្តាយ បង ប្អូន កូន ចៅ ស្វាមី ភរិយា។",
+     "aen": "ឪពុក father, ម្តាយ mother, បង older sibling, ប្អូន younger sibling, កូន child, ចៅ grandchild.",
+     "audio": "audio/a5.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យសង្គ្រោះ · Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "មុខរបរអ្នកធ្វើអ្វី?",
+     "en": "What is your occupation?",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "គ្រួសារខ្ញុំមានប្រាំនាក់។",
+     "en": "My family has five members.",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "ពួកអ៊ · â-family letters",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "គ",
+     "en": "kô",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "ង",
+     "en": "ngô",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "ជ",
+     "en": "cô",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "ទ",
+     "en": "tô",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "ន",
+     "en": "nô",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "ម",
+     "en": "mô",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "គ្រួសារ · Family",
+   "color": "#AE432E",
+   "items": [
+    {
+     "ko": "ឪពុក",
+     "en": "father",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "ម្តាយ",
+     "en": "mother",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "បង",
+     "en": "older sibling",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "ប្អូន",
+     "en": "younger sibling",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "កូន",
+     "en": "child",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "ចៅ",
+     "en": "grandchild",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "មុខរបរ · Work",
+   "color": "#CD7C2F",
+   "items": [
+    {
+     "ko": "គ្រួសារ",
+     "en": "family",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "សមាជិក",
+     "en": "member",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "មុខរបរ",
+     "en": "occupation",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "ដាំបន្លែ",
+     "en": "to grow vegetables",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "ប្រាក់ចំណូល",
+     "en": "income",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "គ្រូ",
+     "en": "teacher",
+     "audio": "audio/v18.mp3"
+    }
+   ]
+  }
+ ],
+ "published": "2026-11-02",
+ "full": [
+  {
+   "title": "ពួកអ៊ · The â-family",
+   "ko": "ពួក «អ៊» មាន ១៨ តួ ដូចជា គ ឃ ង ជ ឈ ញ ទ ធ ន ព ភ ម យ រ ល វ។ ពួកអ៊ នៅម្នាក់ឯង មានសំឡេង «អូ» ជាប់ខាងក្នុង ដូចជា គ = កោ។",
+   "en": "The â-family has eighteen letters: គ ឃ ង ជ ឈ ញ ទ ធ ន ព ភ ម យ រ ល វ and friends. A bare â-family letter carries -ô: គ reads “kô”."
+  },
+  {
+   "title": "សំឡេង · How they bend vowels",
+   "ko": "«ទ» ជាពួកអ៊។ «ទឹក» អាន តឹក មានន័យថាទឹកសម្រាប់ផឹក។ «នាង» អាន នៀង សម្រាប់ហៅស្ត្រី។",
+   "en": "ទ is â-family. ទឹក “water” — the drink. នាង reads “nieng” — she / a young woman."
+  },
+  {
+   "title": "គ្រួសារ · Family & work",
+   "ko": "ពាក្យគ្រួសារពួកអ៊ ដូចជា យាយ មាតា ភរិយា។ «គ្រូ» មានជើង «រ» នៅក្រោម «គ»។ គ្រូបង្រៀនអក្ខរកម្មនៅមណ្ឌលសិក្សា។ «មុខរបរ» មានពីរព្យាង្គ។ មុខរបរសំខាន់របស់គ្រួសារនាងចន្តាគឺធ្វើស្រែ។ មុខរបរបន្ថែមគឺ «ដាំបន្លែ» ដើម្បីបង្កើនប្រាក់ចំណូល។",
+   "en": "Family words from the â-family: យាយ grandmother, មាតា mother, ភរិយា wife. គ្រូ “teacher” hides a subscript រ under គ. Literacy teachers work at learning centres. មុខរបរ “occupation” has two syllables. Chantha's family main job is rice farming. The side job is growing vegetables (ដាំបន្លែ) to raise the family income."
+  }
+ ]
+}

@@ -1,0 +1,345 @@
+{
+ "slug": "l4-final-365",
+ "title_ko": "ព្យញ្ជនៈប្រកប ជាប់សញ្ញា «់»",
+ "title_en": "Closed syllables with the killer sign ់",
+ "subtitle": "មេរៀនទី ៤ · Lesson 4 of ភាសាខ្មែរ កម្រិត ១",
+ "description": "The small mouse-tooth sign ់ kills the vowel and closes the syllable (កង់ ឈប់ លក់ វាស់…), plus two-syllable compounds like ចបជីក and គុយទាវ, with the self-improvement-plan passage.",
+ "sections": [
+  {
+   "id": "sign",
+   "ko": "មូសិកទន្ត",
+   "en": "The sign ់",
+   "color": "#CD4C58"
+  },
+  {
+   "id": "pair",
+   "ko": "ពាក្យប្រកប",
+   "en": "Compound words",
+   "color": "#00A84D"
+  },
+  {
+   "id": "plan",
+   "ko": "ផែនការ",
+   "en": "A plan to change",
+   "color": "#F0B200"
+  }
+ ],
+ "spine": {
+  "title": "ខ្សែទី៤ · Closing the syllable",
+  "note": "Learn the killer sign, read closed words, glue compounds together, then read Phally's plan."
+ },
+ "explain": {
+  "why": "«់» (មូសិកទន្ត) សម្លាប់សំឡេងស្រៈចុងព្យាង្គ។ «កង់» អាន kɑŋ ដូច «កង» ប៉ុន្តែមានរូបតួបន្ថែម។",
+  "tiles": [
+   {
+    "img": "img/x-kill.svg",
+    "tile": "់",
+    "ko": "សញ្ញាសម្លាប់ស្រៈ",
+    "en": "The sign kills the final vowel"
+   },
+   {
+    "img": "img/x-kang.svg",
+    "tile": "កង់=kង",
+    "ko": "សំឡេងដូច រូបខុស",
+    "en": "Same sound, different spelling"
+   },
+   {
+    "img": "img/x-pair2.svg",
+    "tile": "ចប+ជីក",
+    "ko": "ពាក្យពីរបញ្ចូលគ្នា",
+    "en": "Two words glue into one thing"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "sign",
+   "img": "img/c1.svg",
+   "tile": "់",
+   "flat": true,
+   "alt": "The mouse-tooth sign ់",
+   "hook": "មូសិកទន្ត",
+   "ko": "«់» នៅពីលើអក្សរចុងព្យាង្គ សម្លាប់សំឡេងស្រៈ ដូចជា «កង់»។",
+   "en": "The sign ់ sits on the last letter and kills its vowel: កង់.",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "sign",
+   "img": "img/c2.svg",
+   "tile": "កង់",
+   "flat": true,
+   "alt": "A red bicycle wheel",
+   "hook": "កង់",
+   "ko": "«កង់» មានន័យថា wheel ឬ bicycle។ «ពូតង់លក់កង់ចាស់»។",
+   "en": "កង់ means wheel or bicycle: “Pu Tong sells old bicycles”.",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "sign",
+   "img": "img/c3.svg",
+   "tile": "ឈប់",
+   "flat": true,
+   "alt": "A red stop sign",
+   "hook": "ឈប់",
+   "ko": "«ឈប់» to stop។ «តាបាស់ឈរជក់បារី»។",
+   "en": "ឈប់ “to stop”. Ta Bas stands smoking a cigarette.",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "sign",
+   "img": "img/c4.svg",
+   "tile": "លក់ វាស់",
+   "flat": true,
+   "alt": "A market stall and a tape measure",
+   "hook": "លក់ / វាស់",
+   "ko": "«លក់» to sell «វាស់» to measure។ «ពូតក់វាស់ដីលក់ដោយបង់រំលស់»។",
+   "en": "លក់ sell, វាស់ measure: “Pu Tok measures land and sells it on instalments”.",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "pair",
+   "img": "img/c5.svg",
+   "tile": "ចបជីក",
+   "flat": true,
+   "alt": "A digging spade",
+   "hook": "ចបជីក",
+   "ko": "«ចប» + «ជីក» = ចបជីក a digging spade។ ពាក្យពីរបញ្ចូលគ្នាជាអង្គធាតុមួយ។",
+   "en": "ចប (spade) + ជីក (dig) = ចបជីក, one tool made of two words.",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "pair",
+   "img": "img/c6.svg",
+   "tile": "គុយទាវ",
+   "flat": true,
+   "alt": "A bowl of noodle soup",
+   "hook": "គុយទាវ",
+   "ko": "«គុយទាវ» rice noodle soup។ «នគរបាលចាប់ចងចោរលួចឡាននៅហាងគុយទាវ»។",
+   "en": "គុយទាវ is noodle soup. “Police arrested the car thief at a noodle shop.”",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "pair",
+   "img": "img/c7.svg",
+   "tile": "ជួសជុល",
+   "flat": true,
+   "alt": "Hands repairing a motorbike",
+   "hook": "ជួសជុល",
+   "ko": "«ជួសជុល» to repair។ សំណាងជាជាងជួសជុលកង់។",
+   "en": "ជួសជុល “to repair”. Somnang is a bicycle repairman.",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "plan",
+   "img": "img/c8.svg",
+   "tile": "ផែនការ",
+   "flat": true,
+   "alt": "A notebook with a plan list",
+   "hook": "ផែនការ",
+   "ko": "ផល្លីរៀនចប់អក្ខរកម្ម ហើយមានផែនការរៀនបន្តយកជំនាញដាំបន្លែ។",
+   "en": "Phally finished literacy class and plans to study vegetable-growing skills.",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "title": "គ្រោះ · Traps",
+   "small": "Read these first",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "«កង» និង «កង់» សំឡេងដូចគ្នា ហេតុអ្វីសរសេរខុស?",
+     "qen": "Same sound — why two spellings?",
+     "qaudio": "audio/q1.mp3",
+     "a": "«កង» សរសេរបាន ប៉ុន្តែពាក្យភាគច្រើនត្រូវការ «់» តាមប្រវត្តិពាក្យ។ ត្រូវចាំជាពាក្យៗ។",
+     "aen": "Both can be spelled, but each word has its own traditional form — learn word by word.",
+     "why": "កង់ wheel ត្រូវ «់» រីឯ កង in កងទ័ព សរសេរគ្មាន។",
+     "audio": "audio/a1.mp3"
+    },
+    {
+     "q": "«បារី» មាន «់» ដែរទេ?",
+     "qen": "Does បារី take a ់?",
+     "qaudio": "audio/q2.mp3",
+     "a": "ទេ។ «រី» បញ្ចប់ដោយស្រៈ ី មិនចាំបាច់សម្លាប់ស្រៈទេ។",
+     "aen": "No — the syllable already ends in the vowel ី, nothing to kill.",
+     "audio": "audio/a2.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សំណួរ · Questions",
+   "small": "Questions learners really ask",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "«ពស់» មានន័យអ្វី?",
+     "qen": "What does ពស់ mean?",
+     "qaudio": "audio/q3.mp3",
+     "a": "«ពស់» snake។ «បងសាញ់សាក់រូបពស់នៅលើដៃ»។",
+     "aen": "Snake. “Sanh tattoos a snake on his arm.”",
+     "audio": "audio/a3.mp3"
+    },
+    {
+     "q": "«បង់រំលស់» ន័យដូចម្តេច?",
+     "qen": "What is បង់រំលស់?",
+     "qaudio": "audio/q4.mp3",
+     "a": "ការបង់លុយជាដំណាក់កាលៗ មិនទិញមួយដងអស់ទេ។",
+     "aen": "Paying in instalments instead of all at once.",
+     "audio": "audio/a4.mp3"
+    },
+    {
+     "q": "«ជំនាញ» ប្រើក្នុងឃ្លាដូចម្តេច?",
+     "qen": "How do I use ជំនាញ in a sentence?",
+     "qaudio": "audio/q5.mp3",
+     "a": "«ខ្ញុំកំពុងរៀនជំនាញដាំបន្លែ»។",
+     "aen": "“I am studying vegetable-growing skills.”",
+     "audio": "audio/a5.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យសង្គ្រោះ · Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "តើលក់អ្វីខ្លះ?",
+     "en": "What do you sell?",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "ជួយវាស់ឱ្យខ្ញុំផង។",
+     "en": "Please measure this for me.",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "ជាប់ «់» · Closed words",
+   "color": "#CD4C58",
+   "items": [
+    {
+     "ko": "កង់",
+     "en": "wheel / bicycle",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "ឈប់",
+     "en": "to stop",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "លក់",
+     "en": "to sell",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "វាស់",
+     "en": "to measure",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "ពស់",
+     "en": "snake",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "ជក់",
+     "en": "to smoke / pull",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យប្រកប · Compounds",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "ចបជីក",
+     "en": "spade",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "គុយទាវ",
+     "en": "noodle soup",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "ជួសជុល",
+     "en": "to repair",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "កាំបិត",
+     "en": "knife",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "ពីងពាង",
+     "en": "spider",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "ចាប់ចង",
+     "en": "to arrest / tie up",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ផែនការ · The plan",
+   "color": "#F0B200",
+   "items": [
+    {
+     "ko": "ផែនការ",
+     "en": "plan",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "ជំនាញ",
+     "en": "skill",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "ជីវិត",
+     "en": "life",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "អក្ខរកម្ម",
+     "en": "literacy",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "បន្ត",
+     "en": "to continue",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "រៀនចប់",
+     "en": "to finish studying",
+     "audio": "audio/v18.mp3"
+    }
+   ]
+  }
+ ],
+ "published": "2026-11-04",
+ "full": [
+  {
+   "title": "មូសិកទន្ត · The sign ់",
+   "ko": "«់» នៅពីលើអក្សរចុងព្យាង្គ សម្លាប់សំឡេងស្រៈ ដូចជា «កង់»។ «កង់» មានន័យថា wheel ឬ bicycle។ «ពូតង់លក់កង់ចាស់»។ «ឈប់» to stop។ «តាបាស់ឈរជក់បារី»។ «លក់» to sell «វាស់» to measure។ «ពូតក់វាស់ដីលក់ដោយបង់រំលស់»។",
+   "en": "The sign ់ sits on the last letter and kills its vowel: កង់. កង់ means wheel or bicycle: “Pu Tong sells old bicycles”. ឈប់ “to stop”. Ta Bas stands smoking a cigarette. លក់ sell, វាស់ measure: “Pu Tok measures land and sells it on instalments”."
+  },
+  {
+   "title": "ពាក្យប្រកប · Compound words",
+   "ko": "«ចប» + «ជីក» = ចបជីក a digging spade។ ពាក្យពីរបញ្ចូលគ្នាជាអង្គធាតុមួយ។ «គុយទាវ» rice noodle soup។ «នគរបាលចាប់ចងចោរលួចឡាននៅហាងគុយទាវ»។ «ជួសជុល» to repair។ សំណាងជាជាងជួសជុលកង់។",
+   "en": "ចប (spade) + ជីក (dig) = ចបជីក, one tool made of two words. គុយទាវ is noodle soup. “Police arrested the car thief at a noodle shop.” ជួសជុល “to repair”. Somnang is a bicycle repairman."
+  },
+  {
+   "title": "ផែនការ · A plan to change",
+   "ko": "ផល្លីរៀនចប់អក្ខរកម្ម ហើយមានផែនការរៀនបន្តយកជំនាញដាំបន្លែ។",
+   "en": "Phally finished literacy class and plans to study vegetable-growing skills."
+  }
+ ]
+}

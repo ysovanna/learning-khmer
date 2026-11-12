@@ -1,0 +1,356 @@
+{
+ "slug": "l12-word-meanings",
+ "title_ko": "កល្បសព្ទ វេវបនៈសព្ទ និងបដិសព្ទ",
+ "title_en": "Same sound, same meaning, opposite meaning",
+ "subtitle": "មេរៀនទី ១២ · Lesson 12 of ភាសាខ្មែរ កម្រិត ១",
+ "description": "Finish the level with word wisdom: homophones (កល្បសព្ទ), synonyms by register (ហូប/ញ៉ាំ/ទទួលទាន/បរិភោគ) and antonyms (បដិសព្ទ), capped by the labour-contract passage.",
+ "sections": [
+  {
+   "id": "same",
+   "ko": "កល្បសព្ទ",
+   "en": "Same sound",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "syn",
+   "ko": "វេវបនៈសព្ទ",
+   "en": "Synonyms & register",
+   "color": "#008778"
+  },
+  {
+   "id": "anti",
+   "ko": "បដិសព្ទ",
+   "en": "Opposites",
+   "color": "#CD4C58"
+  },
+  {
+   "id": "work",
+   "ko": "កិច្ចសន្យា",
+   "en": "Your work contract",
+   "color": "#0052A4"
+  }
+ ],
+ "spine": {
+  "title": "ខ្សែទី១២ · Choosing the right word",
+  "note": "Same sound ≠ same word; pick the polite level; know opposites; then read a work contract."
+ },
+ "explain": {
+  "why": "ពាក្យខ្មែរមានស្រទាប់៖ ពាក្យធម្មតា ពាក្យសុភាព និងពាក្យបាលី-សំស្រ្កឹតផ្លូវការ។ ជ្រើសរើសតាមអ្នកនិយាយដោយ។",
+  "tiles": [
+   {
+    "img": "img/x-ladder.svg",
+    "tile": "ហូប→បរិភោគ",
+    "ko": "ពីផ្ទះទៅព្រះវិហារ",
+    "en": "From home talk to temple talk"
+   },
+   {
+    "img": "img/x-homo.svg",
+    "tile": "ក=ការ?",
+    "ko": "សូរដូច ន័យខុស",
+    "en": "Same sound, different meaning"
+   },
+   {
+    "img": "img/x-oppo.svg",
+    "tile": "ទៅ⇄មក",
+    "ko": "ពាក្យផ្ទុយគ្នា",
+    "en": "Words that face each other"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "same",
+   "img": "img/c1.svg",
+   "tile": "កល្បសព្ទ",
+   "flat": true,
+   "alt": "Two different things sharing one sound",
+   "hook": "កល្បសព្ទ",
+   "ko": "កល្បសព្ទ ជាពាក្យមានសូរដូចគ្នា ប៉ុន្តែអត្ថន័យផ្សេងគ្នា។",
+   "en": "កល្បសព្ទ: words that sound alike but mean different things.",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "same",
+   "img": "img/c2.svg",
+   "tile": "ទាន/ទាន់",
+   "flat": true,
+   "alt": "A gift bowl and a timely newspaper",
+   "hook": "សាកសួរបរិបទ",
+   "ko": "«ព័ត៌មានទាន់ហេតុការណ៍» breaking news។ «ទាន» giving ផ្សេង «ទាន់» timely ផ្សេង។",
+   "en": "ទាន (giving) vs ទាន់ (timely): ព័ត៌មានទាន់ហេតុការណ៍ = breaking news.",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "syn",
+   "img": "img/c3.svg",
+   "tile": "ហូប/ញ៉ាំ/ទទួលទាន",
+   "flat": true,
+   "alt": "Three tables: home, guest, monk",
+   "hook": "ស្រទាប់ពាក្យ",
+   "ko": "«ហូប» ធម្មតា «ញ៉ាំ» ស្និទ្ធស្នាល «ទទួលទាន» សុភាព «បរិភោគ» សម្រាប់ព្រះសង្ឃ។",
+   "en": "ហូប plain, ញ៉ាំ intimate, ទទួលទាន polite, បរិភោគ for monks.",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "syn",
+   "img": "img/c4.svg",
+   "tile": "ភ្នែក/នេត្រា",
+   "flat": true,
+   "alt": "An eye drawn plainly and ornately",
+   "hook": "ធម្មតា vs បាលី",
+   "ko": "«ភ្នែក» eye «នេត្រា/ចក្ខុ» formal។ «គង្គា» river ជាពាក្យបាលីនៃ «ទឹក»។",
+   "en": "ភ្នែក vs formal នេត្រា/ចក្ខុ; គង្គា is the Pali “river” for plain ទឹក.",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "anti",
+   "img": "img/c5.svg",
+   "tile": "ទៅ⇄មក",
+   "flat": true,
+   "alt": "Two arrows pointing opposite ways",
+   "hook": "បដិសព្ទ",
+   "ko": "បដិសព្ទ ជាពាក្យផ្ទុយគ្នា៖ ទៅ≠មក ស≠ខ្មៅ លឿន≠យឺត។",
+   "en": "បដិសព្ទ are opposites: ទៅ go ≠ មក come, ស white ≠ ខ្មៅ black, លឿន fast ≠ យឺត slow.",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "anti",
+   "img": "img/c6.svg",
+   "tile": "មាន⇄ក្រ",
+   "flat": true,
+   "alt": "A full rice basket and an empty one",
+   "hook": "មាន/ក្រ",
+   "ko": "«មាន» rich ≠ «ក្រ» poor។ «ចាស់» old ≠ «ថ្មី» new។ «ឧស្សាហ៍» hardworking ≠ «ខ្ជិល» lazy។",
+   "en": "មាន rich ≠ ក្រ poor; ចាស់ old ≠ ថ្មី new; ឧស្សាហ៍ diligent ≠ ខ្ជិល lazy.",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "work",
+   "img": "img/c7.svg",
+   "tile": "កិច្ចសន្យាការងារ",
+   "flat": true,
+   "alt": "A signed work contract on a desk",
+   "hook": "កិច្ចសន្យា",
+   "ko": "កិច្ចសន្យាការងារ មានឈ្មោះនិយោជក មុខងារ ទីតាំង ប្រាក់ឈ្នួល និងម៉ោងធ្វើការ។",
+   "en": "A work contract lists employer, role, location, wages and working hours.",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "work",
+   "img": "img/c8.svg",
+   "tile": "ប្រាក់ឈ្នួល",
+   "flat": true,
+   "alt": "Wages in an envelope with a clock",
+   "hook": "សិទ្ធិការងារ",
+   "ko": "កម្មករនិយោជិតមានសិទ្ធិឈប់សម្រាក និងការជូនដំណឹងមុនបណ្តេញចេញ។",
+   "en": "Workers have rights to leave and to notice before dismissal.",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "title": "គ្រោះ · Traps",
+   "small": "Read these first",
+   "kind": "trap",
+   "items": [
+    {
+     "q": "និយាយ «បរិភោគ» ជាមួយមិត្តបានទេ?",
+     "qen": "Can I say បរិភោគ to a friend?",
+     "qaudio": "audio/q1.mp3",
+     "a": "បាន តែឆ្ងល់ពេក។ «ញ៉ាំ» សម្រាប់មិត្ត «ទទួលទាន» សម្រាប់អ្នកធំ «បរិភោគ» សម្រាប់ព្រះសង្ឃ។",
+     "aen": "It would sound odd. ញ៉ាំ for friends, ទទួលទាន for elders, បរិភោគ for monks.",
+     "why": "ជ្រើសស្រទាប់ពាក្យតាមអ្នកនិយាយ។",
+     "audio": "audio/a1.mp3"
+    },
+    {
+     "q": "«ខ្លិល» ឬ «ខ្ជិល» ត្រូវ?",
+     "qen": "Is lazy spelled ខ្លិល or ខ្ជិល?",
+     "qaudio": "audio/q2.mp3",
+     "a": "«ខ្ជិល» ត្រូវ។ សរសេរ «ខ្លិល» គឺកំហុសដែលជួបញឹក។",
+     "aen": "ខ្ជិល is correct; ខ្លិល is a common misspelling.",
+     "audio": "audio/a2.mp3"
+    }
+   ]
+  },
+  {
+   "title": "សំណួរ · Questions",
+   "small": "Questions learners really ask",
+   "kind": "qa",
+   "items": [
+    {
+     "q": "«ទូន្មាន» «អប់រំ» «ណែនាំ» ខុសគ្នាយ៉ាងណា?",
+     "qen": "Difference of ទូន្មាន / អប់រំ / ណែនាំ?",
+     "qaudio": "audio/q3.mp3",
+     "a": "«ទូន្មាន» to advise gently «អប់រំ» to educate «ណែនាំ» to instruct/introduce។",
+     "aen": "ទូន្មាន gentle advice, អប់រំ education, ណែនាំ instruction or introduction.",
+     "audio": "audio/a3.mp3"
+    },
+    {
+     "q": "«និយោជក» និង «កម្មករ» នរណាជាអ្នកចុះកិច្ចសន្យា?",
+     "qen": "Who signs — the employer or the worker?",
+     "qaudio": "audio/q4.mp3",
+     "a": "ទាំងពីរ។ «និយោជក» ជាអ្នកជួល «កម្មករនិយោជិត» ជាអ្នកធ្វើការ។",
+     "aen": "Both. និយោជក is the employer; កម្មករនិយោជិត the employee.",
+     "audio": "audio/a4.mp3"
+    },
+    {
+     "q": "«បទពិសោធន៍» ជាអ្វី?",
+     "qen": "What is បទពិសោធន៍?",
+     "qaudio": "audio/q5.mp3",
+     "a": "ជំនាញ និងការធ្លាប់ជួបក្នុងការងារ experience។",
+     "aen": "Experience — skills and things you have gone through at work.",
+     "audio": "audio/a5.mp3"
+    }
+   ]
+  },
+  {
+   "title": "ពាក្យសង្គ្រោះ · Survival lines",
+   "kind": "surv",
+   "items": [
+    {
+     "ko": "មុនចុះហត្ថលេខា សូមអានឱ្យខ្ញុំស្តាប់ផង។",
+     "en": "Before I sign, please read this to me.",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "ប្រាក់ឈ្នួល និងថ្ងៃឈប់សម្រាករបស់ខ្ញុំយ៉ាងណា?",
+     "en": "What are my wages and leave days?",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "ហូបចុក · Eating, by register",
+   "color": "#008778",
+   "items": [
+    {
+     "ko": "ហូប",
+     "en": "to eat (plain)",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "ញ៉ាំ",
+     "en": "to eat (intimate)",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "ទទួលទាន",
+     "en": "to eat (polite)",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "បរិភោគ",
+     "en": "to eat (monk)",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "ko": "សឹង",
+     "en": "to sleep (monk)",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "គេង",
+     "en": "to sleep",
+     "audio": "audio/v06.mp3"
+    }
+   ]
+  },
+  {
+   "title": "បដិសព្ទ · Opposites",
+   "color": "#CD4C58",
+   "items": [
+    {
+     "ko": "ទៅ ≠ មក",
+     "en": "go ≠ come",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "ស ≠ ខ្មៅ",
+     "en": "white ≠ black",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "ko": "លឿន ≠ យឺត",
+     "en": "fast ≠ slow",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "មាន ≠ ក្រ",
+     "en": "rich ≠ poor",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "ចាស់ ≠ ថ្មី",
+     "en": "old ≠ new",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "ឧស្សាហ៍ ≠ ខ្ជិល",
+     "en": "diligent ≠ lazy",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "កិច្ចសន្យាការងារ · Work contract",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "កិច្ចសន្យាការងារ",
+     "en": "work contract",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "និយោជក",
+     "en": "employer",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "កម្មករនិយោជិត",
+     "en": "employee",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "ប្រាក់ឈ្នួល",
+     "en": "wages",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "ម៉ោងធ្វើការ",
+     "en": "working hours",
+     "audio": "audio/v17.mp3"
+    },
+    {
+     "ko": "ថ្ងៃឈប់សម្រាក",
+     "en": "leave days",
+     "audio": "audio/v18.mp3"
+    }
+   ]
+  }
+ ],
+ "published": "2026-11-12",
+ "full": [
+  {
+   "title": "កល្បសព្ទ · Same sound",
+   "ko": "កល្បសព្ទ ជាពាក្យមានសូរដូចគ្នា ប៉ុន្តែអត្ថន័យផ្សេងគ្នា។ «ព័ត៌មានទាន់ហេតុការណ៍» breaking news។ «ទាន» giving ផ្សេង «ទាន់» timely ផ្សេង។",
+   "en": "កល្បសព្ទ: words that sound alike but mean different things. ទាន (giving) vs ទាន់ (timely): ព័ត៌មានទាន់ហេតុការណ៍ = breaking news."
+  },
+  {
+   "title": "វេវបនៈសព្ទ · Synonyms & register",
+   "ko": "«ហូប» ធម្មតា «ញ៉ាំ» ស្និទ្ធស្នាល «ទទួលទាន» សុភាព «បរិភោគ» សម្រាប់ព្រះសង្ឃ។ «ភ្នែក» eye «នេត្រា/ចក្ខុ» formal។ «គង្គា» river ជាពាក្យបាលីនៃ «ទឹក»។",
+   "en": "ហូប plain, ញ៉ាំ intimate, ទទួលទាន polite, បរិភោគ for monks. ភ្នែក vs formal នេត្រា/ចក្ខុ; គង្គា is the Pali “river” for plain ទឹក."
+  },
+  {
+   "title": "បដិសព្ទ · Opposites",
+   "ko": "បដិសព្ទ ជាពាក្យផ្ទុយគ្នា៖ ទៅ≠មក ស≠ខ្មៅ លឿន≠យឺត។ «មាន» rich ≠ «ក្រ» poor។ «ចាស់» old ≠ «ថ្មី» new។ «ឧស្សាហ៍» hardworking ≠ «ខ្ជិល» lazy។",
+   "en": "បដិសព្ទ are opposites: ទៅ go ≠ មក come, ស white ≠ ខ្មៅ black, លឿន fast ≠ យឺត slow. មាន rich ≠ ក្រ poor; ចាស់ old ≠ ថ្មី new; ឧស្សាហ៍ diligent ≠ ខ្ជិល lazy."
+  },
+  {
+   "title": "កិច្ចសន្យា · Your work contract",
+   "ko": "កិច្ចសន្យាការងារ មានឈ្មោះនិយោជក មុខងារ ទីតាំង ប្រាក់ឈ្នួល និងម៉ោងធ្វើការ។ កម្មករនិយោជិតមានសិទ្ធិឈប់សម្រាក និងការជូនដំណឹងមុនបណ្តេញចេញ។",
+   "en": "A work contract lists employer, role, location, wages and working hours. Workers have rights to leave and to notice before dismissal."
+  }
+ ]
+}
